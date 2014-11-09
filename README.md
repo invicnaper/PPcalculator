@@ -19,4 +19,9 @@ Features
 * Support all math library
 * Suuport function implemntation
 * Advanced and default type
+* 
+Download
+===========
+
+* Linux version ==> http://mppt.olympe.in/PPcalculator
 
