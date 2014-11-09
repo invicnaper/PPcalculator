@@ -15,7 +15,7 @@ Features
 ============
 
 * Available for both linux and windows ( .pro file is included) 
-* Support the Polognaise inversed
+* Support the Polonaise inversed
 * Support all math library
 * Suuport function implemntation
 * Advanced and default type
