@@ -14,9 +14,9 @@ and also support new function that you can implement in the libpp dir.
 Features
 ============
 
-*Available for both linux and windows ( .pro file is included) 
-*Support the Polognaise inversed
-*Support all math library
-*Suuport function implemntation
-*Advanced and default type
+* Available for both linux and windows ( .pro file is included) 
+* Support the Polognaise inversed
+* Support all math library
+* Suuport function implemntation
+* Advanced and default type
 
