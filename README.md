@@ -1,4 +1,4 @@
-    ![alt tag](https://cdn0.iconfinder.com/data/icons/Android-R2-png/128/Calculator-Android-R.png)
+![alt tag](https://cdn0.iconfinder.com/data/icons/Android-R2-png/128/Calculator-Android-R.png)
 
 PPcalculator
 ============
