@@ -19,7 +19,7 @@ Features
 * Support all math library
 * Suuport function implemntation
 * Advanced and default type
-* 
+ 
 Download
 ===========
 
