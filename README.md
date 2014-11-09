@@ -20,7 +20,7 @@ Features
 * Available for both linux and windows ( .pro file is included) 
 * Support the Polonaise inversed
 * Support all math functions
-* Support function implemntation
+* Support function implementation
 * Advanced and default type
  
 Download
