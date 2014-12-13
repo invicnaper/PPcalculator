@@ -124,7 +124,7 @@ char * Cal::readFile(){
 }
 void Cal::Clean(){
 #ifdef __linux__
-    system("rm __tmp.c && rm __res.txt & rm a.out");
+    system("rm __tmp.c && rm __res.txt && rm a.out");
 #endif
 }
 
