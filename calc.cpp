@@ -7,47 +7,6 @@
 
 char testString[expr];
 
-                        /** PROGRAMME PRINCIPAL **/
-/*
-int main()
-{
-   int feu;
-   liste *lst;
-   while(1)
-   {
-     do
-     {
-        printf("\n\n\t Entrer Votre expression \n\n\t ");
-        feu=lire(testString,expr);
-        if(feu==0)
-        {
-            printf("\n\t N'oubliez pas : Nous sommes en C ; ");
-            printf("\n\t Un nombre reel de type double doit avoir au plus 310 caracteres. ");
-            printf("\n\n\t");
-            system("pause");
-            system("cls");
-        }
-     } while(feu!=1);
-     feu=0;
-     strcpy(testString,space(testString));
-     strcpy(testString,plusoumoins(testString));
-     if(verification(testString))
-     {
-         lst=creer_liste();
-         if(lst==NULL)
-         {
-             perror("\n\t Erreur lors de la creation de la liste. ");
-             printf("\n\t Appuyez sur une touche pour quitter le programme. ");
-             getch();
-             exit(EXIT_FAILURE);
-         }
-         maPile(testString,lst);
-     }
-    }
-  return 0;
-}
-*/
-
 double * calc(char * string){
     try{
         double * res;
